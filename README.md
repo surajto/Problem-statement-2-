@@ -4,9 +4,9 @@
 The **Hospital Management System (HMS)** is a web-app application designed to manage doctor appointments efficiently. It provides a platform where **patients** can book appointments, **doctors** can see thier schedules, and **admins** can oversee the entire system.
 
 ## ⚙️ Features
-- **Admin Panel**: Manage doctors, monitor appointments and patients.
+- **Admin Panel**: Manage doctors,Manages slots, monitor appointments and patients.
 - **Doctor Management**: Doctors can view booked appointments.
-- **Patient Management**: Patients can book and view appointments.
+- **Patient Management**: Patients can book and view thier appointments.
 
 ## 🏛 Database Structure
 ### **1️⃣ Admins Table**
@@ -96,7 +96,7 @@ SOURCE sample_data.sql;
 ```
 
 ## 🔄 Workflow
-1️⃣ **Admin** adds doctors and moniters appointments and manages slots and updates status..
+1️⃣ **Admin** adds doctors and moniters appointments and manages slots.
 2️⃣ **Doctors** monitors the appointment.
 3️⃣ **Patients** register and book appointments.
 
