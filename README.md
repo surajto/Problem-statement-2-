@@ -101,7 +101,7 @@ SOURCE sample_data.sql;
 3️⃣ **Patients** register and book appointments.
 
 ## 📞 Contact
-For any queries, reach out to `support@example.com`.
+For any queries, reach out to `surajtomar9309@gmail.com`.
 ---
 
 
